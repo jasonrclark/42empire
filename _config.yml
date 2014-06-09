@@ -1,12 +1,12 @@
 inc:
   # Blog Information
-  title:        "42nd and Empire"
+  title:        "42nd & Empire"
   subtitle:     "The Intersection of Fun and the Meaning of Life"
   cover_image:  blog-cover.jpg
   logo:         logo.png
 
   # Company information
-  company:      "42nd and Empire"
+  company:      "42nd & Empire"
   url:          http://42empire.com/
   facebook:     42empire
   twitter:      42empire
