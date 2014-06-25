@@ -4,6 +4,8 @@ require "tmpdir"
 require "bundler/setup"
 require "jekyll"
 
+task :default => [:'site:publish']
+
 namespace :site do
   desc "Generate blog files"
   task :generate do
